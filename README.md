@@ -9,3 +9,5 @@ se utilizo una libreria include <random> que sirve para: generar números pseudo
 de resto todos fuen logicas con funciones, se utilizo las librerias:include <iostream>
 using namespace std; que estas librerias <iostream> se utiliza para para incluir la biblioteca de entrada y salida estándar
 y la libreria de usiganamespace se utiliza ahorrar poner std:: a la hora de imprimir o mostrar en pantalla.
+
+se hizo las categorios aplicaciones y sistemas simulacion y juegos,graficos y patrones
